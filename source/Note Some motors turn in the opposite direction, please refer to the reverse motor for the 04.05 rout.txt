@@ -1,0 +1,3 @@
+Note: Some motors turn in the opposite direction, please refer to the reverse motor for the 04.05 routine
+
+The code is the same, only the direction is different
